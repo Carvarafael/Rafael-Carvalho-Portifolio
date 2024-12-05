@@ -8,7 +8,7 @@ I'm a Data Analytics and Data Engineer studing to be Data Scients who loves to m
 
 <details open>
 <summary>My Resume</summary>
-[Resume.pdf](Resume Rafael Carvalho.pdf)
+<pdf-viewer src="Resume Rafael Carvalho.pdf"></pdf-viewer>
 </details>
 
 ### 👷 Check out what I'm currently working on
