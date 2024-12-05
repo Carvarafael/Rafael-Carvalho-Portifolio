@@ -2,8 +2,8 @@
 I'm a Data Analytics and Data Engineer studing to be Data Scients who loves to make applications and solutions that's helps people to increse their time used on value adding stuffs
 . I'm a Mechatronics Engineer and Master deegree in Computer Science focusing in Computional Vision.
 
-[`📫 maximousblk@gmail.com`](mailto:carvarafael@gmail.com)
-[`🤓 EC7B EE3B 0561 BF2F`](https://keybase.io/maximousblk/pgp_keys.asc)
+[`📫 carvarafael@gmail.com`](mailto:carvarafael@gmail.com)
+<img src="{[BadgeURLHere](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white Linkedin)}" />
 
 ### 👷 Check out what I'm currently working on
 
