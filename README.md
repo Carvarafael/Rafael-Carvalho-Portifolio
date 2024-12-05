@@ -9,7 +9,7 @@ I'm a Data Analytics and Data Engineer studing to be Data Scients who loves to m
 <details open>
 <summary>My Resume</summary>
 <br>
-Well, you asked for it!
+[Resume.pdf](Resume Rafael Carvalho.pdf)
 </details>
 
 ### 👷 Check out what I'm currently working on
