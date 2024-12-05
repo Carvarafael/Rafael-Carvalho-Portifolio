@@ -8,7 +8,7 @@ I'm a Data Analytics and Data Engineer, aspiring to become a Data Scientist, pas
 
 ## 👷 Check out what I'm currently working on
 
-- [maximousblk/mill](https://github.com/maximousblk/mill) - Set of GitHub Actions for me to build my favorite projects.
+- [Fractal-Reshape-Representation](https://github.com/Carvarafael/Fractal-Reshape-representation) - Algorithm to Extract Fractal Attributes from an Histological Image and Perform Classification Using CNNs (ResNet and EfficientNet).
 
 
 ### 🔭 Latest releases I've contributed to
