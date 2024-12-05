@@ -1,4 +1,4 @@
-### About me 
+### Rafael Carvalho 
 I'm a Data Analytics and Data Engineer studing to be Data Scients who loves to make applications and solutions that's helps people to increse their time used on value adding stuffs
 . I'm a Mechatronics Engineer and Master deegree in Computer Science focusing in Computional Vision.
 
