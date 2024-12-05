@@ -6,17 +6,11 @@ I'm a Data Analytics and Data Engineer studing to be Data Scients who loves to m
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> ](https://www.linkedin.com/in/rafaelhocarvalho/)
 
-<details open>
-<summary>My Resume</summary>
-<br>
-<pdf-viewer src="Resume Rafael Carvalho.pdf"></pdf-viewer>
-</details>
+[Resume](https://github.com/Carvarafael/Rafael-Carvalho-Portifolio/blob/main/Resume%20Rafael%20Carvalho.pdf)
 
 ### 👷 Check out what I'm currently working on
 
 - [maximousblk/mill](https://github.com/maximousblk/mill) - Set of GitHub Actions for me to build my favorite projects.
-- [maximousblk/upsmon](https://github.com/maximousblk/upsmon) - A simple UPS monitor for Raspberry Pi
-- [maximousblk/maximousblk.me](https://github.com/maximousblk/maximousblk.me) - My personal website
 
 ### 🔨 My recent Pull Requests
 
