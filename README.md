@@ -6,11 +6,11 @@ I'm a Data Analytics and Data Engineer studing to be Data Scients who loves to m
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> ](https://www.linkedin.com/in/rafaelhocarvalho/)
 
-### <Resume>
-<summary>Resume</summary>
+<details open>
+<summary>Want to ruin the surprise?</summary>
 <br>
-This is how you dropdown.
-</Resume>
+Well, you asked for it!
+</details>
 
 ### 👷 Check out what I'm currently working on
 
