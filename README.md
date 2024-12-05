@@ -6,8 +6,12 @@ I'm a Data Analytics and Data Engineer studing to be Data Scients who loves to m
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> ](https://www.linkedin.com/in/rafaelhocarvalho/)
 
-### 🌱 My latest Experencies
-3
+### <details>
+<summary>Resume</summary>
+<br>
+<br><br>
+</details>
+
 ### 👷 Check out what I'm currently working on
 
 - [maximousblk/mill](https://github.com/maximousblk/mill) - Set of GitHub Actions for me to build my favorite projects.
