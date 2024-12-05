@@ -9,7 +9,7 @@ I'm a Data Analytics and Data Engineer studing to be Data Scients who loves to m
 ### <details>
 <summary>Resume</summary>
 <br>
-<br><br>
+This is how you dropdown.
 </details>
 
 ### 👷 Check out what I'm currently working on
