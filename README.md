@@ -3,10 +3,10 @@ I'm a Data Analytics and Data Engineer studing to be Data Scients who loves to m
 . I'm a Mechatronics Engineer and Master deegree in Computer Science focusing in Computional Vision.
 
 [`📫 carvarafael@gmail.com`](mailto:carvarafael@gmail.com)
-<img src="https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white" /> [`rafaelhocarvalho`](https://www.linkedin.com/in/rafaelhocarvalho/)
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> [`rafaelhocarvalho`](https://www.linkedin.com/in/rafaelhocarvalho/)
 
 ### 🌱 My latest Experencies
-
+3
 ### 👷 Check out what I'm currently working on
 
 - [maximousblk/mill](https://github.com/maximousblk/mill) - Set of GitHub Actions for me to build my favorite projects.
